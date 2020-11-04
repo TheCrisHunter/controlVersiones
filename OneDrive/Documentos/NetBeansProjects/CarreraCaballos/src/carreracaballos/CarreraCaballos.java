@@ -33,5 +33,6 @@ public class CarreraCaballos {
             Thread t3=new Thread(prueba3);
             System.out.println("Sale el caballo3");
                 t3.start();
+                //Cambio 1 para el commit
     }  
 }
